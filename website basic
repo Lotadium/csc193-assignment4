@@ -1,0 +1,22 @@
+
+<html>
+	<head>
+	<style>
+	h1 {text-align: center;}
+	a {text-align: center;}
+	</style>
+	 <title>My test page</title>
+	</head>
+	<body>
+		<h1>Piano</h1>
+<hr />
+	<p> The <strong>PIANO</strong> is a both a string and percussion instrument also has 88 keys, it is still used even being created in the early 1700s  </p>
+	<a href=https://en.wikipedia.org/wiki/Piano>INFOMATION ABOUT PIANOS</a>
+	
+<img
+  src="https://upload.wikimedia.org/wikipedia/commons/d/da/Steinway_%26_Sons_upright_piano%2C_model_K-132%2C_manufactured_at_Steinway%27s_factory_in_Hamburg%2C_Germany.png"
+  alt="piano" />
+
+
+	</body>
+</html>
